@@ -2,7 +2,9 @@
 React Native Blog Infinite Scroll List.
 
 
-Install Dependencies 
+Install Dependencies
 > npm install
+
+
 Run Project
 > react-native run-android
