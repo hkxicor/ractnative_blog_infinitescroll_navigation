@@ -26,7 +26,7 @@ export default class BlogList extends Component {
               }}>
                 {
                   this.state.blogs.map((item, index) => (
-                    <BlogCard navigation={this.props.navigation} id={item.id} Title={item.title} Body={item.body} TimeStamp={item.time_stamp} key={index} />
+                    <BlogCard navigation={this.props.navigation} id={item.id} Title={item.title} Body={item.body} TimeStamp={item.time_stamp} Comments={item.comments} key={index} />
                   ))
                 }
               </ScrollView>

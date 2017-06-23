@@ -8,10 +8,10 @@ export default class BlogCard extends Component {
 		this.state = {}
 	}
 	render(){
-		const { Title, TimeStamp, Body} = this.props;
+		const { Title, TimeStamp, Body, Comments} = this.props;
 		const { navigate } = this.props.navigation;
 		return (
-			<TouchableHighlight onPress={ ()=>  navigate('BlogView',{ Title, TimeStamp, Body}) }>
+			<TouchableHighlight onPress={ ()=>  navigate('BlogView',{ Title, TimeStamp, Body, Comments}) }>
 			<View style={styles.container} >
                 <Text style={styles.title}>{Title}</Text>
                 <Text>{TimeStamp}</Text>

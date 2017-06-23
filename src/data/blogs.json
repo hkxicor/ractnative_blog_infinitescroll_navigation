@@ -4,30 +4,396 @@
       "id": 0,
       "title": "8 Reasons to Learn React with Udacity",
       "time_stamp": "Jun 21",
-      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs." },
+      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.",
+      "comments":[
+        {
+          "by":"Himanshu Kushwah",
+          "data":"very nice and useful content",
+          "likes":2,
+          "comments":[
+            {
+              "by":"Pratap",
+              "data":"ya it is",
+              "likes":1,
+              "comments":[{
+                "by":"Himanshu",
+                "data":"Thank you",
+                "likes":0,
+                "comments":[]
+                }]
+            }
+          ]
+        },
+        {
+          "by":"Tolo",
+          "data":"Unable to understand",
+          "likes":3,
+          "comments":[
+            {
+              "by":"Tolo",
+              "data":"Now Understood",
+              "likes":0,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Ubuntu",
+          "data":"Make Linux reat Again",
+          "likes":100,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Facebook",
+          "data":"React is ♥️",
+          "likes":10,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[
+                {
+                  "by":"Ubuntu",
+                  "data":"well said",
+                  "likes":0,
+                  "comments":[
+                    {
+                      "by":"Himanshu",
+                      "data":"thanks",
+                      "likes":0,
+                      "comments":[]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+     },
     {
       "id": 1,
       "title": "How to Make a Simple Twitter Clone with React Native",
       "time_stamp": "Jun 21",
-      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs."
+      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.",
+      "comments":[
+        {
+          "by":"Himanshu Kushwah",
+          "data":"very nice and useful content",
+          "likes":2,
+          "comments":[
+            {
+              "by":"Pratap",
+              "data":"ya it is",
+              "likes":1,
+              "comments":[{
+                "by":"Himanshu",
+                "data":"Thank you",
+                "likes":0,
+                "comments":[]
+                }]
+            }
+          ]
+        },
+        {
+          "by":"Tolo",
+          "data":"Unable to understand",
+          "likes":3,
+          "comments":[
+            {
+              "by":"Tolo",
+              "data":"Now Understood",
+              "likes":0,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Ubuntu",
+          "data":"Make Linux reat Again",
+          "likes":100,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Facebook",
+          "data":"React is ♥️",
+          "likes":10,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[
+                {
+                  "by":"Ubuntu",
+                  "data":"well said",
+                  "likes":0,
+                  "comments":[
+                    {
+                      "by":"Himanshu",
+                      "data":"thanks",
+                      "likes":0,
+                      "comments":[]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 2,
       "title": "Handling State in React: Four Immutable Approaches to Consider",
       "time_stamp": "Jun 19",
-      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs."
+      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.",
+      "comments":[
+        {
+          "by":"Himanshu Kushwah",
+          "data":"very nice and useful content",
+          "likes":2,
+          "comments":[
+            {
+              "by":"Pratap",
+              "data":"ya it is",
+              "likes":1,
+              "comments":[{
+                "by":"Himanshu",
+                "data":"Thank you",
+                "likes":0,
+                "comments":[]
+                }]
+            }
+          ]
+        },
+        {
+          "by":"Tolo",
+          "data":"Unable to understand",
+          "likes":3,
+          "comments":[
+            {
+              "by":"Tolo",
+              "data":"Now Understood",
+              "likes":0,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Ubuntu",
+          "data":"Make Linux reat Again",
+          "likes":100,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Facebook",
+          "data":"React is ♥️",
+          "likes":10,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[
+                {
+                  "by":"Ubuntu",
+                  "data":"well said",
+                  "likes":0,
+                  "comments":[
+                    {
+                      "by":"Himanshu",
+                      "data":"thanks",
+                      "likes":0,
+                      "comments":[]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 3,
       "title": "Launching first app by an external author on NativeBase Market 🎉",
       "time_stamp": "Aug 18",
-      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs."
+      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.",
+      "comments":[
+        {
+          "by":"Himanshu Kushwah",
+          "data":"very nice and useful content",
+          "likes":2,
+          "comments":[
+            {
+              "by":"Pratap",
+              "data":"ya it is",
+              "likes":1,
+              "comments":[{
+                "by":"Himanshu",
+                "data":"Thank you",
+                "likes":0,
+                "comments":[]
+                }]
+            }
+          ]
+        },
+        {
+          "by":"Tolo",
+          "data":"Unable to understand",
+          "likes":3,
+          "comments":[
+            {
+              "by":"Tolo",
+              "data":"Now Understood",
+              "likes":0,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Ubuntu",
+          "data":"Make Linux reat Again",
+          "likes":100,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Facebook",
+          "data":"React is ♥️",
+          "likes":10,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[
+                {
+                  "by":"Ubuntu",
+                  "data":"well said",
+                  "likes":0,
+                  "comments":[
+                    {
+                      "by":"Himanshu",
+                      "data":"thanks",
+                      "likes":0,
+                      "comments":[]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 4 ,
       "title": "React Binding Patterns: 5 Approaches for Handling `this`",
       "time_stamp": "Aug 5",
-      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs."
+      "body": "In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.In this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.TL;DR View the source code on GitHub Install the app on Cosmic JS (you still need to run locally) Getting Started You’ll need to have node.js and yarn I’m also using the Expo SDK so that I don’t have to get Xcode and Android Studio set up. This is also going to provide me with features that will help with things like loading fonts and allowing users to upload photos to the app. To get started with Expo, please refer to the docs.",
+      "comments":[
+        {
+          "by":"Himanshu Kushwah",
+          "data":"very nice and useful content",
+          "likes":2,
+          "comments":[
+            {
+              "by":"Pratap",
+              "data":"ya it is",
+              "likes":1,
+              "comments":[{
+                "by":"Himanshu",
+                "data":"Thank you",
+                "likes":0,
+                "comments":[]
+                }]
+            }
+          ]
+        },
+        {
+          "by":"Tolo",
+          "data":"Unable to understand",
+          "likes":3,
+          "comments":[
+            {
+              "by":"Tolo",
+              "data":"Now Understood",
+              "likes":0,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Ubuntu",
+          "data":"Make Linux reat Again",
+          "likes":100,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[]
+            }
+          ]
+        },
+        {
+          "by":"Facebook",
+          "data":"React is ♥️",
+          "likes":10,
+          "comments":[
+            {
+              "by":"Himanshu",
+              "data":"Well Said 🙌🏻 ",
+              "likes":2,
+              "comments":[
+                {
+                  "by":"Ubuntu",
+                  "data":"well said",
+                  "likes":0,
+                  "comments":[
+                    {
+                      "by":"Himanshu",
+                      "data":"thanks",
+                      "likes":0,
+                      "comments":[]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
 
   ]
